@@ -43,6 +43,7 @@ Perintah Bot
 - /merits: “Merits Anda: Lihat di https://explorer.inkonchain.com/account/merits\nNext claim sekitar 07:00:00 WIB!” (atau waktu berikutnya).
 - /tokens: “Saldo Token:\n[iETH: 0.208263178825793]\n[WETH: 0.31]\n” (atau “Saldo Token:\nTidak ada token”).
 - /txhistory: “Riwayat Transaksi Anda:\nHash: [hash], Value: [nilai] ETH, Time: [waktu]\n” (misalnya, “Riwayat Transaksi Anda:\nHash: 0xf29658211a4da4687fa2647f49811d670f500c3f2e513871b4ba5c64ba9780ca, Value: 0.00015 ETH, Time: 18 Feb 2025 18:28:24”).
+
 Fitur Tambahan
 - Pengingat Klaim Merits: Bot akan mengirim notifikasi antara 06:30–07:30 AM WIB setiap hari untuk mengingatkan Anda mengklaim Merits di https://explorer.inkonchain.com/account/merits.
 
