@@ -1,0 +1,16 @@
+{
+  "name": "inkchain-api-bot",
+  "version": "1.0.0",
+  "description": "API Bot for InkChain with Telegram integration",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "node-telegram-bot-api": "^0.63.0",
+    "dotenv": "^16.0.0"
+  },
+  "author": "Dy6z",
+  "license": "MIT"
+}
